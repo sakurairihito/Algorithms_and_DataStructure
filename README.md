@@ -1,7 +1,7 @@
 # Algorithms_and_DataStructure
 アルゴリズムとデータ構造の本のコードをここに書いていく。
 
-#How to use
+
 ## ビルド
 ```docker-compose up -d```
 
